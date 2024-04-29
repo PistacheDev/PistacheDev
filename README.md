@@ -1,7 +1,7 @@
 - 👋 Salut je suis Pistache (alias PistacheDev) !
-- 👀 J'aime la programmation et CS2 !
-- 🌱 J'apprends le C++ pour un projet UE5 !
-- 💞️ J'aime collaboré avec des développeurs !
+- 👀 J'aime la programmation, et les FPS !
+- 🌱 J'apprends le développent Unity en C# pour un projet !
+- 💞️ J'aime collaboré avec d'autres développeurs !
 - 📫 Pour me contacter : pistachefrofficiel@gmail.com
 
 <!---
