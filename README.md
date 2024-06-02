@@ -1,7 +1,7 @@
 - 👋 Salut je suis Pistache (alias PistacheDev) !
 - 👀 J'aime la programmation, et les FPS !
 - 🌱 Je fais beaucoup de projets simples et utilitaires !
-- 💞️ J'aime collaboré avec d'autres développeurs !
+- 💞️ J'aime collaborer avec d'autres développeurs !
 - 📫 Pour me contacter : pistachefrofficiel@gmail.com
 
 <!---
